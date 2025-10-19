@@ -39,4 +39,4 @@ def get_stock_data(ticker):
 
 if __name__ == '__main__':
     app.run(debug=True)
-```
+
